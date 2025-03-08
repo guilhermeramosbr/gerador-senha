@@ -10,11 +10,10 @@ Este é um simples gerador de senhas online que permite criar senhas aleatórias
 
 ## Como Usar
 
-1. Acesse o [[link do seu gerador de senhas](https://guilhermeramosbr.github.io/gerador-senha/)].
-2. Ajuste o tamanho da senha usando o controle deslizante.
-3. Clique em "Gerar senha".
-4. A senha gerada será exibida abaixo.
-5. Clique na senha para copiá-la.
+1. Ajuste o tamanho da senha usando o controle deslizante.
+2. Clique em "Gerar senha".
+3. A senha gerada será exibida abaixo.
+4. Clique na senha para copiá-la.
 
 ## Tecnologias Utilizadas
 
